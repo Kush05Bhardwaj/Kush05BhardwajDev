@@ -22,6 +22,9 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Portfolio | Kushagra Bhardwaj",
+  icons: {
+    icon: "/KB.jpg",
+  },
   description: "Professional portfolio showcasing my work and experience as a developer",
 }
 
