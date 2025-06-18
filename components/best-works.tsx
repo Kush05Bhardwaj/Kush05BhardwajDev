@@ -29,7 +29,9 @@ export default function BestWorks() {
       title: "Nexus",
       description: "Nexus - Personal AI Assistant with Local LLM Integration",
       image: "/Nexus.jpg?height=200&width=400",
-      link: "#",
+      link: "https://github.com/Kush05Bhardwaj/Nexus-Personal-AI-Assistant-with-Local-LLM-Integration",
+      target: "_blank",
+      rel: "noopener noreferrer",
       technologies: ["python", "ai", "ml"],
     },
   ]
