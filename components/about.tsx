@@ -88,7 +88,7 @@ aboutMe();`
             <div className="mt-6">
               <h4 className="font-semibold text-white mb-2">My Interests:</h4>
               <div className="flex flex-wrap gap-2">
-                {["Web Development", "AI", "ML", "Open Source,", "and more..."].map((interest, i) => (
+                {["Game Development", "Web Development", "AI", "ML", "Open Source,", "and more..."].map((interest, i) => (
                   <span key={i} className="bg-indigo-600/20 text-indigo-400 px-3 py-1 rounded-full text-sm">
                     {interest}
                   </span>
