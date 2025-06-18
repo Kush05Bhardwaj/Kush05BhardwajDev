@@ -5,7 +5,7 @@ import { Briefcase } from "lucide-react"
 export default function WorkExperience() {
   const experiences = [
     {
-      id: 1,
+      id: 2,
       company: "KR Mangalam University",
       role: "Student",
       logo: "/kr.png",
@@ -13,7 +13,7 @@ export default function WorkExperience() {
       description: "I am a student at KR Mangalam University. I am pursuing B.Tech in Computer Science.",
     },
     {
-      id: 2,
+      id: 3,
       company: "Cognifyz Technologies",
       role: "Web Developer Intern",
       logo: "/cognifyz-1.png",
@@ -21,7 +21,7 @@ export default function WorkExperience() {
       description: "I worked as a Web Dev INtern at Cognifyz Technologies.",
     },
     {
-      id: 3,
+      id: 1,
       company: "Fiverr",
       role: "Freelancer",
       logo: "/fiverr.png",
