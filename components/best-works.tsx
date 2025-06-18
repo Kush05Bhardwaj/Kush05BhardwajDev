@@ -24,6 +24,14 @@ export default function BestWorks() {
       link: "#",
       technologies: ["js", "react", "ts", "tailwindcss"],
     },
+    {
+      id: 3,
+      title: "Nexus",
+      description: "Nexus - Personal AI Assistant with Local LLM Integration",
+      image: "/Nexus.jpg?height=200&width=400",
+      link: "#",
+      technologies: ["python", "ai", "ml"],
+    },
   ]
 
   return (
