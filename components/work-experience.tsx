@@ -16,7 +16,7 @@ export default function WorkExperience() {
       id: 2,
       company: "Cognifyz Technologies",
       role: "Web Developer Intern",
-      logo: "/kr.png",
+      logo: "/cognifyz-1.png",
       period: "May 2025 - Present",
       description: "I worked as a Web Dev INtern at Cognifyz Technologies.",
     },
