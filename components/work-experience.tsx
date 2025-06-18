@@ -6,20 +6,29 @@ export default function WorkExperience() {
   const experiences = [
     {
       id: 1,
-      company: "Fiverr",
-      role: "Freelancer",
-      logo: "/fiverr.png",
-      period: "Apr 2024 - Present",
-      description: "I am a freelancer on Fiverr. I provide services like web development and web design.",
-    },
-    {
-      id: 2,
       company: "KR Mangalam University",
       role: "Student",
       logo: "/kr.png",
       period: "Aug 2024 - Present",
       description: "I am a student at KR Mangalam University. I am pursuing B.Tech in Computer Science.",
     },
+    {
+      id: 2,
+      company: "Cognifyz Technologies",
+      role: "Web Developer Intern",
+      logo: "/kr.png",
+      period: "May 2025 - Present",
+      description: "I worked as a Web Dev INtern at Cognifyz Technologies.",
+    },
+    {
+      id: 3,
+      company: "Fiverr",
+      role: "Freelancer",
+      logo: "/fiverr.png",
+      period: "Apr 2024 - Present",
+      description: "I am a freelancer on Fiverr. I provide services like web development and web design.",
+    },
+    
   ]
 
   return (
