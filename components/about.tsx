@@ -56,9 +56,9 @@ aboutMe();`
       {/* Stats section */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
         {[
-          { value: "2+", label: "Projects Completed" },
+          { value: "4+", label: "Projects Completed" },
           { value: "1+", label: "Years of Experience" },
-          { value: "1+", label: "Happy Clients" },
+          { value: "2+", label: "Happy Clients" },
           { value: "8+", label: "Technologies" },
         ].map((stat, index) => (
           <div
