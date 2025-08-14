@@ -8,6 +8,15 @@ export default function BestWorks() {
   const projects = [
     {
       id: 1,
+      title: "Personal Portfolio",
+      description: "Portfolio Website",
+      image: "/cv.png?height=200&width=400",
+      link: "#",
+      technologies: ["js", "react", "ts", "tailwindcss"],
+    },
+    
+    {
+      id: 2,
       title: "ECL Parcel",
       description: "Logistics Website",
       image: "/ecl.png?height=200&width=400",
@@ -16,14 +25,7 @@ export default function BestWorks() {
       rel: "noopener noreferrer",
       technologies: ["js", "react", "nextjs", "tailwindcss"],
     },
-    {
-      id: 2,
-      title: "Personal Portfolio",
-      description: "Portfolio Website",
-      image: "/cv.png?height=200&width=400",
-      link: "#",
-      technologies: ["js", "react", "ts", "tailwindcss"],
-    },
+    
     {
       id: 3,
       title: "Nexus",
@@ -33,6 +35,15 @@ export default function BestWorks() {
       target: "_blank",
       rel: "noopener noreferrer",
       technologies: ["python", "ai", "ml"],
+    },
+
+    {
+      id: 4,
+      title: "Artistry",
+      description: "Artistry AI Redesign",
+      image: "/Artistry.png?height=200&width=400",
+      link: "#",
+      technologies: ["js", "react", "ts", "tailwindcss", "python", "LLM"],
     },
   ]
 
