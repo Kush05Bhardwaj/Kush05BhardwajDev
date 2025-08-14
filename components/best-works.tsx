@@ -41,7 +41,7 @@ export default function BestWorks() {
       id: 4,
       title: "Artistry",
       description: "Artistry AI Redesign",
-      image: "/Artistry.png?height=200&width=400",
+      image: "/Artistry.jpg?height=200&width=400",
       link: "#",
       technologies: ["js", "react", "ts", "tailwindcss", "python", "LLM"],
     },
